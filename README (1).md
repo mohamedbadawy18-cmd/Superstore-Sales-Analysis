@@ -1,16 +1,16 @@
-# 🛒 Superstore Sales & Profitability Analysis
+#  Superstore Sales & Profitability Analysis
 
 A full end-to-end data analysis project on the Superstore dataset — covering data ingestion, SQL-based exploration using SQLite inside Python, and an interactive Tableau dashboard.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes 4 years of retail sales data (2014–2017) from a US-based superstore. The goal is to uncover insights about sales performance, profitability by region and category, the impact of discounts, and shipping behavior — all to support data-driven business decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -22,7 +22,7 @@ This project analyzes 4 years of retail sales data (2014–2017) from a US-based
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 superstore-analysis/
@@ -35,7 +35,7 @@ superstore-analysis/
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ### 1. Data Ingestion
 - Downloaded the dataset directly from Kaggle using `kagglehub`
@@ -69,7 +69,7 @@ superstore-analysis/
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 - **Total Sales:** $2.30M | **Total Profit:** $286.4K | **Customers:** 793 | **Orders:** 5,009
 - **West region** is the most profitable ($108K), while **Central** lags behind ($39.7K)
@@ -80,7 +80,7 @@ superstore-analysis/
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 1. **Review discount strategy** — high discounts are destroying margin across multiple categories
 2. **Investigate Tables sub-category** — consistently the worst performer; consider repricing or discontinuing low-margin SKUs
@@ -89,7 +89,7 @@ superstore-analysis/
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source:** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Size:** 9,994 rows, 21 columns
@@ -98,7 +98,7 @@ superstore-analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository
 2. Install dependencies:
@@ -111,11 +111,11 @@ superstore-analysis/
 
 ---
 
-## 👤 Author
+##  Author
 
-**Mohamed Badawy**  
+**Mohamed Badawy Sayed**  
 Data Analyst | Python · SQL · Tableau  
-[LinkedIn](https://linkedin.com/in/your-profile) <!-- استبدل بالرابط الحقيقي -->
+[LinkedIn](https://www.linkedin.com/in/mohamed-badawi28)
 
 ---
 
